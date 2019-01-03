@@ -317,6 +317,7 @@ class _LocationPageState extends State<LocationPage> {
                                           style: const TextStyle(
                                               fontWeight: FontWeight.bold),
                                         ),
+
                                       ),
 
                                       const Text('Sunny')
