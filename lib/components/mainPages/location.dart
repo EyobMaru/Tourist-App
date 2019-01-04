@@ -299,7 +299,6 @@ class _LocationPageState extends State<LocationPage> {
                                   const Icon(
                                     Icons.wb_sunny_outlined,
                                     color: Color(0xFFF7C64B),
-
                                   ),
                                   SizedBox(
                                     width: width * 0.01,
