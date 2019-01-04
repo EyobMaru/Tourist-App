@@ -294,7 +294,6 @@ class _LocationPageState extends State<LocationPage> {
                                   )
                                 ],
                               ),
-
                               Row(
                                 children: [
                                   const Icon(
