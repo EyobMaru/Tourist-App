@@ -318,6 +318,8 @@ class _LocationPageState extends State<LocationPage> {
                                         ),
                                       ),
                                       const Text('Sunny')
+
+
                                     ],
                                   )
                                 ],
