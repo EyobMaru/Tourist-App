@@ -1,0 +1,19 @@
+export 'package:flutter/material.dart';
+export 'package:tourist_travel_app/components/secondSplash.dart';
+export 'package:tourist_travel_app/components/subComponent/createAccountPage.dart';
+export 'package:tourist_travel_app/components/subComponent/resetPage.dart';
+export 'package:tourist_travel_app/components/subComponent/welcome.dart';
+export 'package:tourist_travel_app/components/thirdSplash.dart';
+export 'package:tourist_travel_app/components/firstSplash.dart';
+export 'package:tourist_travel_app/components/fourthSplash.dart';
+export 'package:tourist_travel_app/components/subComponent/explore.dart';
+export 'package:page_transition/page_transition.dart';
+export 'package:tourist_travel_app/components/Model/model.dart';
+export 'package:tourist_travel_app/components/controller/controller.dart';
+export 'package:tourist_travel_app/components/mainPages/location.dart';
+export 'package:tourist_travel_app/components/mainPages/discovery.dart';
+export 'package:tourist_travel_app/components/reusableWidgets.dart';
+export 'package:tourist_travel_app/components/mainPages/typeOfTour.dart';
+export 'package:persistent_bottom_nav_bar/persistent-tab-view.dart';
+export 'package:google_nav_bar/google_nav_bar.dart';
+
